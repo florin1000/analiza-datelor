@@ -94,5 +94,53 @@
      d)Niciuna din afirmatiile de mai sus nu este adevarata.
      ![alt text](./images/16.png)
 
+#### t13) (17) Analiza inteligenta a datelor (AID) este .. (raspuns multiplu)
 
-#### t13) (17) 
+    **correct**  a)Analiza eficienta a datelor
+    **correct**  b)Utilizate pentru a extrage informatii utile din cantitati mari de date online
+     **correct** c)extragerea de cunostinte dezirabile sau modele interesante din bazele de date existente
+    d)Nici una din afirmatiile de mai sus
+
+#### t14) (18) Urmatoarele nu reprezinta elemente de estetica in reprezentarile vizuale (raspuns simplu)
+
+     **correct** a) includerea tuturor elementelor in vizualizare astfel incat sa nu mai ramana spatiu alb neutilizat
+     b) Utilizarea strategica a culorii
+      **correct** c) alinierea elementelor in grafic
+     d)niciuna din cele de mai sus
+
+#### t15) (19) Functionalitatea "Too tip" in tableau(raspuns simplu)
+
+     a) Ofera utilizatorului posibilitatea de a adauga grafice suplimentare
+     b) Ghideaza utilizatorul in alegerea celui mai bun grafic pentru setul de date folosit
+     c) Permite filtrarea datelor in functie de un anumit camp
+     **correct** d) Ofera interactivitate prin afisarea de informatii suplimentare
+
+#### t16) (20) Fereastra de dialog de mai jos din Tableau are ca efect:
+
+       **correct** a)Crearea unui camp calculat cu valor intregi ce poate fi utilizata ca filtru
+      b)Crearea unui parametru care poate lua orice valoare intre 1 si 5
+       **correct** c)Crearea unui filtru care permite selectarea valorilor 1,2,3,4,5
+      **correct**  d)Crearea unui parametru care poate lua doar valorile 1,2 3,4,5
+
+#### t17) (21): Intr un grafic sut vizualizati angajatii care au salariu lunar mai mare de 4000. Directrorul doreste sa aiba posibilitatea modificarii pragului de 4000 astfel incat sa vizualizeze rapid angajatii cu salariu peste 5000, 6000, 7000. Pentru a asigura aceasta functionalitate in Tableau se paote utiliza(r. simplu)
+
+      a)actiune
+       **correct** b)un parametru
+      c)camp calculat
+      d)instrumentul tool tip
+
+#### t18) (22): In tableau actiunile:(raspuns multiplu)
+
+     a)Pot fi de tip filtru
+     **correct** b) se utilizeaza in dashboard pentru a asigura corelarea informatiilor
+     c)pot fi de tip Parametru
+     **correct** d)Pot fi utilizate pentru a crea linkuri catre pagini Web
+
+#### t19) (23) IF cu vanzarile
+if sum(Vanzari) <  100 000 then 'Vanzari sub limita'
+elseif sum(Vanzari) < 150 000 then 'vanzari in limita' else 'vanzari peste limita'
+
+      **correct** a) Se creeaza un parametru nou care defineste un prag dinmaic al vanzarilor
+      **correct** b)vanzarile peste 150 000 sunt considerate peste limita
+     c)se creeaza o nou avariabila de tip continuu care poate fi utilizata pentru marcarea de tip culoare.
+      **correct** d)vanzarile peste 100 000 sunt considerate peste limita
